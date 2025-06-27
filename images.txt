@@ -1,2 +1,2 @@
-alpine:latest
-golang:1.24.4-alpine
+--platform=linux/arm64/v8 alpine:latest
+--platform=linux/arm64/v8 golang:1.24.4-alpine
